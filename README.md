@@ -23,6 +23,7 @@ And our chatbot will show to others users that you have left the chat.
 - Node.js
 - Express(Framework)
 - Web Scokets
+- Moment.js
 
 # Joining Page
 ![Screenshot (133)](https://user-images.githubusercontent.com/84495822/130458880-f547b739-c4ac-4269-9798-2aa0524325d8.png)
