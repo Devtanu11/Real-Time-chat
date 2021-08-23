@@ -1,8 +1,9 @@
 # Real-Time-chat
 
 
-Real Time Chat Application.
+# Real Time Chat Application.
 
+# working
 In this Project, I am introducing to the development of real-time applications websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI by building a real-time chat. Though the project will focus on this specific use-case.
 
 To run this porgram first start your server on your local machine.Open the specific port on the browser where it is running.
@@ -14,7 +15,7 @@ After chatting you can leave chat your chat by clicking leave button. It will as
 And our chatbot will show to others users that you have left the chat.
 
 
-Technologies:
+# Technologies:
 - HTML5
 - CSS3
 - Vanila JavaScript
