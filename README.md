@@ -23,14 +23,15 @@ Technologies:
 - Express(Framework)
 - Web Scokets
 
-Joining Page
-![Screenshot (108)](https://user-images.githubusercontent.com/84495822/130358834-3845b030-a212-4b2d-bcf7-c6c7b03893dd.png)
+# Joining Page
+![Screenshot (133)](https://user-images.githubusercontent.com/84495822/130458880-f547b739-c4ac-4269-9798-2aa0524325d8.png)
 
-When a user joined chat
-![Screenshot (109)](https://user-images.githubusercontent.com/84495822/130358869-56e93d8c-59ad-4361-a7e3-cf24985930f6.png)
+# When a user joined chat
+![Screenshot (134)](https://user-images.githubusercontent.com/84495822/130458973-a1d2b3e1-18f3-4099-8606-290a69e87012.png)
 
-Normal Chatting
-![Screenshot (110)](https://user-images.githubusercontent.com/84495822/130358935-b0d28e67-9ed1-4ff1-a674-509dd4ce77bd.png)
+# Normal Chatting
+![Screenshot (135)](https://user-images.githubusercontent.com/84495822/130459070-e302c96d-d9fd-478a-9bfc-d5dc152447d6.png)
 
-When a user left the chat
-![Screenshot (111)](https://user-images.githubusercontent.com/84495822/130359023-ff9d235c-12e1-42b4-8e4e-66830023f7ca.png)
+# When a user left the chat
+![Screenshot (137)](https://user-images.githubusercontent.com/84495822/130459167-d843e647-a1c5-4c30-bb58-570ef34d60a9.png)
+
