@@ -25,9 +25,8 @@ And our chatbot will show to others users that you have left the chat.
 - Web Scokets
 - Moment.js
 
-# Block diagram.
-![Screenshot (137)](https://user-images.githubusercontent.com/84495822/130459167-d843e647-a1c5-4c30-bb58-570ef34d60a9.png)
-
+# Block diagram of the project. 
+![diagram](https://user-images.githubusercontent.com/84495822/133976643-7030b916-8e0f-4176-a116-268fde392d4c.jpg)
 
 # Joining Page
 ![Screenshot (133)](https://user-images.githubusercontent.com/84495822/130458880-f547b739-c4ac-4269-9798-2aa0524325d8.png)
